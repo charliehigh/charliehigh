@@ -1,6 +1,8 @@
 # Charles Okai Addai
 
-Mining Engineer specializing in ore control, geostatistics, mine planning, and digital mining systems.
+Mining Engineer specializing in data-driven and AI-enabled solutions for ore control, geostatistics, and mine planning.
+
+I design and implement analytical and machine learning frameworks that improve decision-making in mining operations, with a focus on geological uncertainty modeling, ore routing optimization, and operational risk analysis.
 
 I design and implement data-driven solutions that improve decision-making in mining operations, with a focus on uncertainty modeling, ore routing optimization, and operational analytics.
 
@@ -8,29 +10,29 @@ I design and implement data-driven solutions that improve decision-making in min
 
 - Geostatistical simulation and uncertainty-aware mine planning  
 - Ore control, misroute tracking, and dilution analysis  
-- Stockpile exposure and degradation risk modeling  
-- Mining data pipelines and analytics using Python, SQL, and Power BI  
+- Stockpile exposure, degradation, and value-risk modeling  
+- Mining data pipelines and analytics using Python, SQL, and Power BI
 
 ## Research Background
 
-I completed a Master of Science in Mining Engineering at Michigan Technological University.
+M.S. in Mining Engineering – Michigan Technological University  
 
-My research developed a **multi-loss Wasserstein Generative Adversarial Network (WGAN-GP) framework** for geostatistical simulation, enabling improved modeling of geological uncertainty and spatial variability for mining applications.
+Developed a multi-loss Wasserstein Generative Adversarial Network (WGAN-GP) framework for geostatistical simulation, enabling improved modeling of spatial variability and uncertainty in geological systems.
 
 ## Selected Projects
 
 - **Geostatistical Simulation with WGAN-GP**  
-  Machine learning framework for generating geologically realistic realizations from training images  
+  Developed a multi-loss generative adversarial network framework for modeling geological uncertainty and generating spatially consistent realizations for mine planning.
 
 - **Mine Misroute / Targeting Dilution Tracking**  
-  Data pipeline and analytics workflow for tracking ore misrouting using Snowflake, Python, and MineSight  
+  Designed a data pipeline and analytics workflow integrating Snowflake, Python, and MineSight to improve visibility and control of ore misrouting in operations.
 
 - **Stockpile Exposure & Age Risk Model**  
-  Analytical model for quantifying time-dependent degradation and value loss in stockpiles  
+  Built an analytical framework to quantify time-dependent degradation and value loss in stockpiles, supporting better blending and reclaim decisions.
 
 - **Mining Operations Dashboards**  
-  Power BI dashboards for broken reserve tracking, routing performance, and operational monitoring  
-
+  Developed Power BI dashboards for tracking broken reserves, routing performance, and operational metrics to support short-range planning and execution.
+  
 ## Technical Stack
 
 Python · SQL · Snowflake · Power BI · MineSight · Geostatistics · Machine Learning · Data Engineering
