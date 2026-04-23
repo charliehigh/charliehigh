@@ -1,5 +1,4 @@
 # Charles Okai Addai
-
 Mining Engineer working at the intersection of ore control, geostatistics, mine planning, and digital mining systems.
 
 My work focuses on:
