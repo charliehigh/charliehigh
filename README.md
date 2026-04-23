@@ -4,8 +4,6 @@ Mining Engineer specializing in data-driven and AI-enabled solutions for ore con
 
 I design and implement analytical and machine learning frameworks that improve decision-making in mining operations, with a focus on geological uncertainty modeling, ore routing optimization, and operational risk analysis.
 
-I design and implement data-driven solutions that improve decision-making in mining operations, with a focus on uncertainty modeling, ore routing optimization, and operational analytics.
-
 ## Core Areas of Work
 
 - Geostatistical simulation and uncertainty-aware mine planning  
